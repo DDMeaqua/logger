@@ -1,5 +1,4 @@
-![Cover 41x](https://github.com/DDMeaqua/logger/assets/110169811/933de13c-35e3-44c8-a507-1fe9d1da00db)
-![Cover 31x](https://github.com/DDMeaqua/logger/assets/110169811/65a7233c-b48e-4a02-9a24-785a9171c255)
+
 ![Cover 21x](https://github.com/DDMeaqua/logger/assets/110169811/b3f3b51f-b5eb-49e1-a6d5-7b4b2f86ffcb)
 ![Cover 11x](https://github.com/DDMeaqua/logger/assets/110169811/2aba4a09-79ce-411b-9d33-0d49879834ae)
 ![Cover 91x](https://github.com/DDMeaqua/logger/assets/110169811/6b2aba86-6ef5-4bc6-ad92-ab8904dfb238)
@@ -8,3 +7,5 @@
 ![Cover 111x](https://github.com/DDMeaqua/logger/assets/110169811/0e41877a-57b3-49ad-b56b-55b29da9c4f1)
 ![Cover 101x](https://github.com/DDMeaqua/logger/assets/110169811/2f31251d-c8ba-461c-b5cf-7bdeff3669f1)
 ![Cover 91x](https://github.com/DDMeaqua/logger/assets/110169811/3ac5381e-aee7-4d7b-a55d-2734df02248a)
+![Cover 41x](https://github.com/DDMeaqua/logger/assets/110169811/06a73fd9-3922-4971-868f-de73dae43937)
+![Cover 31x](https://github.com/DDMeaqua/logger/assets/110169811/f528bf0a-cfd1-458e-b83b-a2b1e655b6fc)
